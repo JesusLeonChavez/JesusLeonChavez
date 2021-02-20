@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus León</h1>
 <h3 align="center">Leónidas León</h3>
 
-https://artquid-art.imgix.net/1/112/94347.1633841615.1.o149312231.jpg?fit=max&w=575&border=0,00FF0000
+https://i.pinimg.com/564x/ab/cc/ed/abcced3727aedaf8181e401575c08a9a.png
 
 ## Hi There <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/wave.gif" width="27px">,
 Hello everyone, I am Jesus Leon although most of my friends call me Leonidas. I am currently studying software engineering at the National University of San Marcos ([Universidad Nacional Mayor de San Marcos](http://www.unmsm.edu.pe/)).
