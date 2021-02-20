@@ -19,4 +19,4 @@ I am passionate about data science, web programming, astronomy and computer scie
 
 [![Jesus León github stats](https://github-readme-stats.vercel.app/api?username=JesusLeonChavez&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusLeonChavez&bg_color=160deg,485563,29323c&title_color=ffffff&text_color=ffffff&icon_color=fafafa&hide_border=true&langs_count=8&locale=es)](https://github.com/anuraghazra/github-readme-stats)
