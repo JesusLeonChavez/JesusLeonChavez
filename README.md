@@ -6,6 +6,7 @@ Hello everyone, I am Jesus Leon although most of my friends call me Leonidas. I 
 I am passionate about data science, web programming, astronomy and computer science. I speak perfectly Spanish and English and I am currently in the process of learning the Russian language. I play sports and I love basketball. I hope that all this information helps you to know me a little more.
 
 - 📫 How to reach me **jesusleonchavez@gmail.com**
+- 📫 How to reach me **jesus.leon1@unmsm.edu.pe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
