@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus León</h1>
 <h3 align="center">Leónidas León</h3>
 
-## Hi There <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/wave.gif" width="27px">,
+## Hi There,
 Hello everyone, I am Jesus Leon although most of my friends call me Leonidas. I am currently studying software engineering at the National University of San Marcos ([Universidad Nacional Mayor de San Marcos](http://www.unmsm.edu.pe/)).
 I am passionate about data science, web programming, astronomy and computer science. I speak perfectly Spanish and English and I am currently in the process of learning the Russian language. I play sports and I love basketball. I hope that all this information helps you to know me a little more.
 
